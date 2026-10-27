@@ -106,7 +106,7 @@ My personal portfolio website containing my skills, projects, and contact inform
 
 - Portfolio: [YOUR_PORTFOLIO_LINK](https://punithkumar0927-ctrl.github.io/Punith_Kumar_Portfolio_Netlify/)
 - LinkedIn: [Punith Kumar](https://www.linkedin.com/in/punithkumarab/)
-- Email: YOUR_EMAIL_ADDRESS
+- Email: punithkumar0927@gmail.com
 - GitHub: [@punithkumar0927-ctrl](https://github.com/punithkumar0927-ctrl)
 
 ## ⭐ Career Objective
